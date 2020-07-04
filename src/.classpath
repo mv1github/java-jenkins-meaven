@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="main/java"/>
+	<classpathentry kind="src" path="test/java"/>
+	<classpathentry kind="lib" path="C:/Users/mveer/.m2/repository/junit/junit/4.10/junit-4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
