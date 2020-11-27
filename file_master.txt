@@ -1,1 +1,3 @@
 'testing with a new file in master' 
+'testing with a another file in master' 
+'testing with a another file in master' 
